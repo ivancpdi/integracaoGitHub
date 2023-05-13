@@ -16,7 +16,7 @@ Como fazer integração de diretorio remotamente (GitHub)
 1) CTRL + SHIFT + G (Source Control)
 2) Adicionar um titulo qualquer para commit & push.
 3) Usar botão commit & Push.
-4) CTRL + SHIFT + S (Salve As)
+4) CTRL + SHIFT + S (Salve As). Show Local
 5) Selecione o diretorio do computador e salve.
 
 
